@@ -1,6 +1,5 @@
 import { Button } from "@nextui-org/button";
 import { Card, CardHeader, CardBody, CardFooter } from "@nextui-org/card";
-import { Image } from "@nextui-org/image";
 import { Input, Textarea } from "@nextui-org/input";
 import {
   Modal,
